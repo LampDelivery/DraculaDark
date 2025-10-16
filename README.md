@@ -6,4 +6,4 @@ Three darker variants of the Dracula colorscheme for Aliucord
 <p>-Night</p>
 
 Preview:
-
+![1](https://files.catbox.moe/8wmpev.jpg)
