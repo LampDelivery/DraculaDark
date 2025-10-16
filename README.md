@@ -1,4 +1,4 @@
-# DraculaDark
+# Dracula-Dark
 Three darker variants of the Dracula colorscheme for Aliucord
 
 <p>-Afternoon</p>
