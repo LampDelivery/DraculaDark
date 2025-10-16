@@ -1,2 +1,6 @@
 # DraculaDark
-Two darker varients of the Dracula colorscheme for Aliucord
+Three darker variants of the Dracula colorscheme for Aliucord
+
+-Afternoon
+-Evening
+-Night
