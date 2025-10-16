@@ -6,7 +6,14 @@
         "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/DraculaDark\/main\/DraculaAfternoon.json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Regular.ttf",
+        "whitney_bold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-SemiBold.ttf"
+    },
     "simple_colors": {
         "mention_highlight": -1338296737,
         "accent": -5335855,

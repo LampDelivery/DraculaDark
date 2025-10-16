@@ -6,7 +6,14 @@
         "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/DraculaDark\/main\/DraculaEvening.json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Bold.ttf",
+        "whitney_bold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Bold.ttf",
+        "ginto_regular": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Regular.ttf",
+        "ginto_medium": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Medium.ttf",
+        "whitney_medium": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/LampDelivery\/DraculaDark\/raw\/refs\/heads\/main\/DMSans-SemiBold.ttf"
+    },
     "simple_colors": {
         "mention_highlight": -1339414973,
         "accent": -5335855,
@@ -19,7 +26,7 @@
         "primary_dark_360": -9997927,
         "primary_dark_400": -525429551,
         "primary_dark_600": -14934996,
-        "primary_dark_630": -15263961,
+        "primary_dark_630": -15198169,
         "primary_dark_660": -15461343,
         "primary_dark_700": -15921898,
         "primary_dark_800": -15461343,
